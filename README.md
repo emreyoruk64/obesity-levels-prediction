@@ -31,12 +31,15 @@ Visual evaluation of confusion matrices confirmed effective class separation for
 ##  How to Run the Project  
 1-Clone the repository:
   git clone https://github.com/emreyoruk64/obesity-levels-prediction.git
+  
   cd obesity-levels-prediction
 
 2-Install the dependencies:
+
   pip install -r requirements.txt
 
 3-Run the notebook:
+
   jupyter notebook ObesityLevels.ipynb
 
 ##  Technologies Used
