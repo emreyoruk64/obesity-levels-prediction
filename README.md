@@ -28,19 +28,23 @@ Visual evaluation of confusion matrices confirmed effective class separation for
 - Excluding less informative features simplifies the model and maintains performance.  
 - Further model tuning or use of external datasets could improve generalization and robustness.
 
-##  How to Run the Project  
-1-Clone the repository:
-  git clone https://github.com/emreyoruk64/obesity-levels-prediction.git
-  
-  cd obesity-levels-prediction
-
-2-Install the dependencies:
-
-  pip install -r requirements.txt
-
-3-Run the notebook:
-
-  jupyter notebook ObesityLevels.ipynb
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/emreyoruk64/obesity-levels-prediction.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd obesity-levels-prediction
+   ```
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook ObesityLevels.ipynb
+   ```
 
 ##  Technologies Used
 
